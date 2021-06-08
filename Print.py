@@ -9,4 +9,4 @@ print("hello world" + helloWorld)
 basic = "basic python/be able to make programs"
 debug = "basic debuging"
 syntax = "basic syntax"
-print(
+print("I am still learning " + basic + " " + debug + " " + syntax)
